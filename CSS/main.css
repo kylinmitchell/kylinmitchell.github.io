@@ -4,11 +4,11 @@
 
 .amuse {
   background-color: #d5ddf2;
-  img {
+}
+.amuse .dog-pic {
     width: 100px; 
     height: auto;
       }
-}
 
 .inspire {
 
