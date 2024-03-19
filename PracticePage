@@ -1,2 +1,20 @@
 Fonts (when you don't have one) download and putting in repo
 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>TEMPLATE</title>
+    <link rel="stylesheet" href="CSS/main.css">
+    <link rel="stylesheet" href=CSS/arvo-regular.ttf> (link to font?)
+  </head>
+    <body class="template">
+      <H1>Page Title</H1>
+    </body>
+</html>
+
+CSS format
+@font-face {
+  font-family: "UNCArvoHeadings";
+  src: url(CSS/Arvo-regular.ttf);
+}
