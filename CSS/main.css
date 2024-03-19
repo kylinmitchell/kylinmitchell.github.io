@@ -8,7 +8,7 @@
 .amuse .dog-pic {
     width: 300px; 
     height: auto;
-      }
+    }
 
 .inspire {
   background-color: #9cad9a;
@@ -17,6 +17,11 @@
 .profile {
   background-color: #937be8;
 }
+.profile .eggo-pic {
+  border: 2px white;
+  border-radius: 2px; 
+  filter: grayscale(30%); 
+  }
 
 .superhero {
   background-color: #e0ddeb;
