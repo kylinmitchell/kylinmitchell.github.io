@@ -1,6 +1,16 @@
 .index {
   background-color: #9fb5ed;
 }
+.index .unc-pic {
+  border: 1px solid black;
+  width: 350px;
+  height: auto;
+  }
+.index .index-header {
+  color: #1b226e;
+  font-size: 30px
+  }
+  
 
 .amuse {
   background-color: #d5ddf2;
@@ -20,8 +30,8 @@
   background-color: #937be8;
 }
 .profile .eggo-pic {
-  border: 2px white;
-  border-radius: 2px; 
+  border: 2px solid white;
+  border-radius: 10px; 
   filter: grayscale(30%); 
   width: 300px;
   height: auto;
