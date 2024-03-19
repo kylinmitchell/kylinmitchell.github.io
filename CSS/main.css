@@ -1,8 +1,8 @@
 .index {
   background-color: #9fb5ed;
 }
-.index .unc-pic {
-  border: 1px solid black;
+.index .UNC-pic {
+  border: 20px solid black;
   width: 350px;
   height: auto;
   }
@@ -25,6 +25,17 @@
 .inspire {
   background-color: #9cad9a;
 }
+.inspire .h1-elon {
+  font-size: 40px;
+  }
+.inspire .h2-portrait {
+  font-size: 28px;
+  color: darkgray; 
+  }
+.inspire .h2-elon {
+  font-size: 28px;
+  color: darkgrey;
+  }
 
 .profile {
   background-color: #937be8;
