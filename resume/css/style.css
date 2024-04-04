@@ -1,1 +1,33 @@
 
+body
+{
+    background-color: #BAD1DF;
+}
+*
+{
+    color: #1b4f6e;
+    text-align: center;
+}
+h1
+{
+    font-size: calc(12pt + 4vw);
+}
+nav
+{
+    border: 7px #d3e5f1 solid;
+}
+section
+{
+    border: 5px white solid;
+    margin: 5px;
+    margin-top: 50px;
+}
+.date
+{
+    color: white;
+}
+ul
+{
+    list-style: none;
+    padding-left: 1px;
+}
