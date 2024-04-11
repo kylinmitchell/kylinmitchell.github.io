@@ -51,6 +51,10 @@
 .superhero {
   background-color: #e0ddeb;
 }
+.superhero .th {
+  font-size: 3vw;
+}
+
 
 .template {
   background-color: #a2bdb6;
