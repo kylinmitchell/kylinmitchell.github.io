@@ -8,7 +8,7 @@
   }
 .index .title {
   color: #1b226e;
-  font-size: 30px
+  font-size: 4vw;
   }
 .index .profile {
   color: black;
@@ -52,14 +52,14 @@
   background-color: #9cad9a;
 }
 .inspire .h1-elon {
-  font-size: 2vw;
+  font-size: 3vw;
   }
 .inspire .h2-portrait {
-  font-size: 28px;
+  font-size: 2vw;
   color: #46494d; 
   }
 .inspire .h2-elon {
-  font-size: 28px;
+  font-size: 2vw;
   color: #46494d;
   }
 .inspire .elon-pic {
@@ -77,9 +77,10 @@
   width: 30vw;
   height: auto;
   }
-.profile .eggo
+.profile .eggo {
   font-size: 3vw;
   color: #180238;
+  }
 
 .superhero {
   background-color: #e0ddeb;
