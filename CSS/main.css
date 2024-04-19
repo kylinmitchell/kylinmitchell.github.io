@@ -16,12 +16,28 @@
   background-color: #d5ddf2;
 }
 .amuse .dog-pic {
-    width: 30vw; 
+    width: 20vw; 
     height: auto;
     filter: grayscale(100%);
-    border-radius: 5px;
+    border-radius: 10px;
+    border: 2px solid gray;
     }
-
+.amuse .laughs-h1 {
+    font-size: 5vw;
+    font-color: #060a2e;
+    }
+.amuse .office-h2 {
+    font-size: 3vw;
+    font-color: #091d40;
+    }
+.amuse .reddit-h2 {
+    font-size: 3vw;
+    font-color: #091d40;
+    }
+.amuse .dogs-h2 {
+    font-size: 3vw;
+    font-color: #091d40;
+    }
 .inspire {
   background-color: #9cad9a;
 }
@@ -37,7 +53,7 @@
   color: #46494d;
   }
 .inspire .elon-pic {
-  width: 40vw;
+  width: 20vw;
   height: auto;
   }
 
