@@ -10,6 +10,15 @@
   color: #1b226e;
   font-size: 30px
   }
+.index .profile {
+  color: black;
+  }
+.index .inspire {
+  color: black;
+  }
+.index .humor {
+  color: black;
+  }
   
 
 .amuse {
@@ -38,6 +47,7 @@
     font-size: 3vw;
     font-color: #091d40;
     }
+
 .inspire {
   background-color: #9cad9a;
 }
