@@ -32,19 +32,19 @@
     border: 2px solid gray;
     }
 .amuse .laughs-h1 {
-    font-size: 5vw;
+    font-size: 3vw;
     font-color: #060a2e;
     }
 .amuse .office-h2 {
-    font-size: 3vw;
+    font-size: 2vw;
     font-color: #091d40;
     }
 .amuse .reddit-h2 {
-    font-size: 3vw;
+    font-size: 2vw;
     font-color: #091d40;
     }
 .amuse .dogs-h2 {
-    font-size: 3vw;
+    font-size: 2vw;
     font-color: #091d40;
     }
 
@@ -52,7 +52,7 @@
   background-color: #9cad9a;
 }
 .inspire .h1-elon {
-  font-size: 40px;
+  font-size: 2vw;
   }
 .inspire .h2-portrait {
   font-size: 28px;
@@ -74,7 +74,7 @@
   border: 2px solid white;
   border-radius: 10px; 
   filter: grayscale(30%); 
-  width: 50vw;
+  width: 30vw;
   height: auto;
   }
 
