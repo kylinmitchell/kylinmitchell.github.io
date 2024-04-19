@@ -93,6 +93,10 @@
 .superhero {
   background-color: #e0ddeb;
 }
+.superhero .super {
+  font-size: 4vw;
+  font-weight: bold;
+  }
 
 
 .template {
