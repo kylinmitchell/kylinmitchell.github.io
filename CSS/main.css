@@ -3,7 +3,7 @@
 }
 .index .UNC-pic {
   border: 3px solid black;
-  width: 30vw;
+  width: 40vw;
   height: auto;
   }
 .index .title {
@@ -69,7 +69,7 @@
   color: #46494d;
   }
 .inspire .elon-pic {
-  width: 20vw;
+  width: 30vw;
   height: auto;
   border: 2px solid black;
   }
@@ -81,7 +81,7 @@
   border: 2px solid white;
   border-radius: 10px; 
   filter: grayscale(30%); 
-  width: 30vw;
+  width: 35vw;
   height: auto;
   }
 .profile .eggo {
