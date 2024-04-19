@@ -9,6 +9,7 @@
 .index .title {
   color: #1b226e;
   font-size: 4vw;
+  font-weight: bold;
   }
 .index .profile {
   color: black;
@@ -34,18 +35,22 @@
 .amuse .laughs-h1 {
     font-size: 3vw;
     color: #060a2e;
+    font-weight: bold;
     }
 .amuse .office-h2 {
     font-size: 2vw;
     color: #091d40;
+    font-style: italic;
     }
 .amuse .reddit-h2 {
     font-size: 2vw;
     color: #091d40;
+    font-style: italic;
     }
 .amuse .dogs-h2 {
     font-size: 2vw;
     color: #091d40;
+    font-style: italic;
     }
 
 .inspire {
@@ -53,6 +58,7 @@
 }
 .inspire .h1-elon {
   font-size: 3vw;
+  font-weight: bold;
   }
 .inspire .h2-portrait {
   font-size: 2vw;
@@ -65,6 +71,7 @@
 .inspire .elon-pic {
   width: 20vw;
   height: auto;
+  border: 2px solid black;
   }
 
 .profile {
@@ -80,6 +87,7 @@
 .profile .eggo {
   font-size: 3vw;
   color: #180238;
+  font-weight: bold;
   }
 
 .superhero {
