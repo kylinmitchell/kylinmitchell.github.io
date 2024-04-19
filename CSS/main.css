@@ -33,19 +33,19 @@
     }
 .amuse .laughs-h1 {
     font-size: 3vw;
-    font-color: #060a2e;
+    color: #060a2e;
     }
 .amuse .office-h2 {
     font-size: 2vw;
-    font-color: #091d40;
+    color: #091d40;
     }
 .amuse .reddit-h2 {
     font-size: 2vw;
-    font-color: #091d40;
+    color: #091d40;
     }
 .amuse .dogs-h2 {
     font-size: 2vw;
-    font-color: #091d40;
+    color: #091d40;
     }
 
 .inspire {
@@ -77,6 +77,9 @@
   width: 30vw;
   height: auto;
   }
+.profile .eggo
+  font-size: 3vw;
+  color: #180238;
 
 .superhero {
   background-color: #e0ddeb;
